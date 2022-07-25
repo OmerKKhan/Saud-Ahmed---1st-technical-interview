@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rxbq6ly/OaJ8DI7yfMleq8rCHcKwo137KUVtEy8LabCgS5R+GLgLTj5f1v0S1ZnkRy019Dl8o6nK50Z1aqY2Uw==",
+  "success": true,
+  "projectFilePath": "/home/runner/Saud-Ahmed-1st-technical-interview/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
